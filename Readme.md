@@ -2,6 +2,10 @@
 
 **TL;DR**：Visionary 是一个 **web-native** 的 3DGS 渲染器，把「每帧高斯生成/更新」统一抽象成 **ONNX I/O Gaussian Generator contract**，并用 **WebGPU** 完成端到端的预处理、全局排序与渲染；同时支持把**生成式后处理**（如风格化/增强）也以 ONNX 的形式接到浏览器端流水线中。
 
+
+Uploading 524672085-6824de84-e4db-4c3f-90e8-1061ff309579.mp4…
+
+
 ---
 
 ##  Highlights
